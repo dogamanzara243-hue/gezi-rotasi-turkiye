@@ -1,0 +1,24 @@
+{
+    "_ADMIN_KILAVUZU": "Bu dosyayı okuma yazma bilen herkes kolayca düzenleyebilir.",
+    "mekan_adi": "Belgrad Ormanı",
+    "kategori": "Doğal Güzellikler",
+    "kapak_resmi": "../../../../assets/images/belgrad.webp",
+    "seo": {
+        "meta_baslik": "Belgrad Ormanı Yürüyüş Parkuru Rehberi",
+        "meta_aciklama": "İstanbul'un saklı cenneti Belgrad Ormanı hakkında bilgiler."
+    },
+    "detayli_aciklama": "Şehrin gürültüsünden kaçmak isteyenler için muazzam bir doğa harikası.",
+    "ziyaretci_notlari": "Hafta sonları sabah erken saatlerde daha sakindir.",
+    "nasil_gidilir": "Hacıosman metro çıkışından otobüslerle ulaşabilirsiniz.",
+    "reklam_alani": {
+        "aktif_mi": true,
+        "reklam_metni": "Kamp ve Doğa Ekipmanlarında %15 İndirim!"
+    },
+    "kalacak_yerler": [],
+    "yemek_yerleri": [
+        {
+            "mekan_adi": "Bahçeköy Mantı Evi",
+            "aciklama": "Doğa içinde huzurlu yemek."
+        }
+    ]
+}
