@@ -1,0 +1,54 @@
+{
+    "cities": {
+        "istanbul": {
+            "name": "İstanbul",
+            "tagline": "Medeniyetler beşiği ihtişamlı metropol.",
+            "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "categories": {
+                "tarihi-yerler": {
+                    "name": "Tarihi Yerler",
+                    "desc": "Ayasofya, Topkapı Sarayı ve köklü miraslar.",
+                    "places": {
+                        "ayasofya": {
+                            "name": "Ayasofya-i Kebir Cami-i Şerifi",
+                            "desc": "Mimarlık tarihinin en büyük şaheserlerinden biri...",
+                            "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Sabah erken saatlerde gitmek sıra beklemeyi önler.",
+                            "nasil_gidilir": "T1 tramvay hattı ile Sultanahmet durağında inebilirsiniz.",
+                            "reklam": {
+                                "aktif": true,
+                                "metin": "Sultanahmet Özel Rehberli Tur İndirimi %20!"
+                            },
+                            "yemek": "Tarihi Sultanahmet Köftecisi"
+                        }
+                    }
+                }
+            }
+        },
+        "ankara": {
+            "name": "Ankara",
+            "tagline": "Başkentin köklü tarihi ve gurme durakları.",
+            "image": "https://images.unsplash.com/photo-1605633647464-4299b90c74fb?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "categories": {
+                "lezzetli-yerler": {
+                    "name": "Lezzetli Yerler",
+                    "desc": "Ankara'nın en iyi yöresel ve gizli lezzet durakları.",
+                    "places": {
+                        "mehmet-abinin-restaurantti": {
+                            "name": "Mehmet Abinin Restoranı",
+                            "desc": "Ankara'nın kalbinde, geleneksel lezzetleri ve samimi ortamıyla efsaneleşmiş bir restoran.",
+                            "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Akşam saatlerinde gitmeden önce rezervasyon yapmakta fayda var.",
+                            "nasil_gidilir": "Kızılay merkezden yürüyerek veya taksiyle kolayca ulaşabilirsiniz.",
+                            "reklam": {
+                                "aktif": true,
+                                "metin": "Mehmet Abinin Yeri'ne Özel %10 İndirim Kuponu!"
+                            },
+                            "yemek": "Meşhur Ankara Tava ve Özel Güveç"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
