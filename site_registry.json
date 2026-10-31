@@ -3,7 +3,7 @@
         "istanbul": {
             "name": "İstanbul",
             "tagline": "Medeniyetler beşiği ihtişamlı metropol.",
-            "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=1200&q=80&fm=webp",
             "categories": {
                 "tarihi-yerler": {
                     "name": "Tarihi Yerler",
@@ -11,23 +11,145 @@
                     "places": {
                         "ayasofya": {
                             "name": "Ayasofya-i Kebir Cami-i Şerifi",
-                            "desc": "Mimarlık tarihinin en büyük şaheserlerinden biri...",
+                            "desc": "Mimarlık tarihinin ve dünya kültür mirasının en büyük şaheserlerinden biri olan Ayasofya; benzersiz mozayikleri, devasa kubbesi ve 1500 yılı aşan tarihiyle büyülemektedir.",
                             "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80&fm=webp",
-                            "ziyaretci_notlari": "Sabah erken saatlerde gitmek sıra beklemeyi önler.",
-                            "nasil_gidilir": "T1 tramvay hattı ile Sultanahmet durağında inebilirsiniz.",
+                            "ziyaretci_notlari": "Sabah erken saatlerde veya hafta içi gitmek sıra beklemeyi önler. Kıyafet kurallarına dikkat edilmelidir.",
+                            "nasil_gidilir": "Bağcılar-Kabataş T1 tramvay hattını kullanarak Sultanahmet durağında inebilir, kısa bir yürüyüşle ulaşabilirsiniz.",
                             "reklam": {
                                 "aktif": true,
-                                "metin": "Sultanahmet Özel Rehberli Tur İndirimi %20!"
+                                "metin": "Sultanahmet Tarihi Alanlar Özel Rehberli Tur İndirimi %20!"
                             },
-                            "yemek": "Tarihi Sultanahmet Köftecisi"
+                            "yemek": "Tarihi Sultanahmet Köftecisi ve Osmanlı Şerbeti"
+                        },
+                        "topkapi-sarayi": {
+                            "name": "Topkapı Sarayı",
+                            "desc": "1478 yılında Fatih Sultan Mehmet tarafından yaptırılan Topkapı Sarayı, yaklaşık 400 yıl boyunca Osmanlı İmparatorluğu'nun idare merkezi ve padişahların resmi ikametgahı olmuştur.",
+                            "image": "https://images.unsplash.com/photo-1566438480900-0609be27a4be?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Giriş sırası uzun olabilir, biletinizi online almanızı ve Mukaddes Emanetler ile Harem bölümünü kaçırmamak için en az 3-4 saat ayırmanızı tavsiye ederiz.",
+                            "nasil_gidilir": "T1 Kabataş-Bağcılar tramvay hattını kullanarak Sultanahmet veya Gülhane durağında inip kısa bir yürüyüşle ulaşabilirsiniz.",
+                            "reklam": {
+                                "aktif": true,
+                                "metin": "Saray Avlusunda Müze Kart Sahiplerine Özel %10 Hediyelik Eşya İndirimi!"
+                            },
+                            "yemek": "Saray mutfağı lezzetleri sunan Konyalı Restoran"
+                        },
+                        "yerebatan-sarnici": {
+                            "name": "Yerebatan Sarnıcı",
+                            "desc": "6. yüzyılda Bizans İmparatoru I. Justinianus tarafından sarayın su ihtiyacını karşılamak için yaptırılan görkemli yeraltı su deposudur. İçindeki Medusa başları ile ünlüdür.",
+                            "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Aydınlatma tasarımı oldukça büyüleyicidir; içerisi nemli ve zemin kaygan olabileceğinden rahat ayakkabılar tercih edilmelidir.",
+                            "nasil_gidilir": "Ayasofya'nın hemen güneybatısında yer alır. T1 tramvayının Sultanahmet durağına 2 dakikalık yürüyüş mesafesindedir.",
+                            "reklam": {
+                                "aktif": true,
+                                "metin": "Gece Müzeciliği Etkinlik Biletlerinde 2. Bilet %50 İndirimli!"
+                            },
+                            "yemek": "Sultanahmet Meydanı Çevresinde Tarihi Baklavacılar"
+                        },
+                        "galata-kulesi": {
+                            "name": "Galata Kulesi",
+                            "desc": "1348 yılında Cenevizliler tarafından inşa edilen kule, İstanbul'un en simgesel yapılarından biridir ve tepesinden 360 derece kesintisiz bir Tarihi Yarımada panoraması sunar.",
+                            "image": "https://images.unsplash.com/photo-1527838832700-5059252407fa?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Gün batımı saatlerinde kuleye çıkmak harika fotoğraflar verir ancak asansör sırası uzun olabilir, sabah erken saatler ziyaret için idealdir.",
+                            "nasil_gidilir": "M2 Yenikapı-Hacıosman metrosunun Şişhane durağında inip Beyoğlu tünel çıkışından aşağı doğru yürüyerek kolayca ulaşabilirsiniz.",
+                            "reklam": {
+                                "aktif": true,
+                                "metin": "Galata Sokak Kahvecilerinde Kule Biletini Gösterene %10 İndirim!"
+                            },
+                            "yemek": "Meşhur Galata San Sebastian Cheesecake"
+                        },
+                        "kiz-kulesi": {
+                            "name": "Kız Kulesi",
+                            "desc": "Üsküdar açıklarındaki küçük bir kayalık üzerine kurulu, Bizans ve Osmanlı dönemlerinden günümüze kadar ticaret, deniz feneri ve gözetleme amacıyla kullanılmış efsanevi kule.",
+                            "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Kuleye geçiş teknelerle sağlanır. Salacak sahilinde çay içerek kuleyi dışarıdan seyretmek de oldukça popüler bir aktivitedir.",
+                            "nasil_gidilir": "Üsküdar Salacak sahilinden kalkan düzenli tekne seferleri ile kuleye geçebilirsiniz.",
+                            "reklam": {
+                                "aktif": false,
+                                "metin": ""
+                            },
+                            "yemek": "Salacak Sahilinde Simit ve Çay Klasiği"
+                        },
+                        "kapalicarsi": {
+                            "name": "Kapalıçarşı",
+                            "desc": "1461 yılında kurulan Kapalıçarşı, 60'tan fazla sokağı ve 4.000'den fazla dükkanıyla dünyanın en büyük ve en eski kapalı alışveriş merkezlerinden biridir.",
+                            "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Labirent gibi sokaklarında kaybolmak deneyimin bir parçasıdır. Halı, takı ve deride pazarlık etmek neredeyse kuraldır.",
+                            "nasil_gidilir": "T1 Kabataş-Bağcılar tramvay hattının Beyazıt-Kapalıçarşı durağında inerek çarşının ana kapısına ulaşabilirsiniz.",
+                            "reklam": {
+                                "aktif": true,
+                                "metin": "Geleneksel El Dokuması Halı Alışverişlerinde Ücretsiz Uluslararası Kargo!"
+                            },
+                            "yemek": "Çarşı İçindeki Tarihi Dönerci Şahin Usta"
+                        },
+                        "dolmabahce-sarayi": {
+                            "name": "Dolmabahçe Sarayı",
+                            "desc": "19. yüzyılda Sultan Abdülmecid tarafından yaptırılan, Barok ve Neoklasik mimarinin Osmanlı tarzıyla harmanlandığı, Boğaz kıyısındaki büyüleyici saray.",
+                            "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Saray içinde fotoğraf çekimi kısıtlı olabilir. Selamlık ve Harem bölümlerini gezmek için rehberli turlara veya sesli rehberlere başvurabilirsiniz.",
+                            "nasil_gidilir": "Kabataş tramvay son durağından veya Beşiktaş iskelesinden yürüyerek 5-10 dakikada ulaşabilirsiniz.",
+                            "reklam": {
+                                "aktif": false,
+                                "metin": ""
+                            },
+                            "yemek": "Saray Bahçesindeki Saat Kulesi Kafeteryası"
+                        },
+                        "sultanahmet-camii": {
+                            "name": "Sultanahmet Camii (Mavi Camii)",
+                            "desc": "1617 yılında Sultan I. Ahmed tarafından Mimar Sedefkar Mehmed Ağa'ya yaptırılan, iç mekanındaki mavi Mavi İznik çinileri nedeniyle Avrupalılarca 'Blue Mosque' olarak bilinen yapı.",
+                            "image": "https://images.unsplash.com/photo-1548625361-1808b2611794?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "6 minaresiyle ünlü olan camide ibadet vakitlerinde turistik ziyaretler durdurulur. Ziyaret öncesi namaz saatlerini kontrol ediniz.",
+                            "nasil_gidilir": "T1 Kabataş-Bağcılar tramvay hattı Sultanahmet durağında inilerek direkt ulaşım sağlanır.",
+                            "reklam": {
+                                "aktif": true,
+                                "metin": "Geleneksel Türk Sanatları Atölye Kayıtlarında %20 İndirim!"
+                            },
+                            "yemek": "Arasta Pazarı Yakınındaki Tarihi Osmanlı Restoranları"
+                        },
+                        "rumeli-hisari": {
+                            "name": "Rumeli Hisarı",
+                            "desc": "1452 yılında Fatih Sultan Mehmet tarafından İstanbul'un fethinden hemen önce Boğaz'ın kuzeyden gelebilecek yardımları kesmek amacıyla 4 ay gibi kısa bir sürede inşa edilmiştir.",
+                            "image": "https://images.unsplash.com/photo-1584267385494-9fdd9a71ad75?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Dik merdivenleri ve tırmanış yolları vardır. Boğaz manzarası muazzamdır; spor ayakkabı ile gitmeniz önerilir.",
+                            "nasil_gidilir": "Kabataş veya Beşiktaş'tan kalkan Sarıyer yönlü otobüslere binerek Rumeli Hisarı durağında inebilirsiniz.",
+                            "reklam": {
+                                "aktif": false,
+                                "metin": ""
+                            },
+                            "yemek": "Hisar Sahilinde Zengin Serpme Kahvaltı"
+                        },
+                        "chora-müzesi": {
+                            "name": "Kariye Camii (Chora)",
+                            "desc": "Bizans döneminden kalan, dünyaca ünlü mozaik ve freskleriyle bilinen, Osmanlı döneminde camiye çevrilip günümüzde eşsiz mozaik sanatını sergileyen tarihi yapı.",
+                            "image": "https://images.unsplash.com/photo-1565008447742-97f6f38c985c?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Sanat tarihi meraklılarının mutlaka görmesi gereken mozaik sahneleri barındırır. Edirnekapı surlarına çok yakındır.",
+                            "nasil_gidilir": "Edirnekapı yönüne giden İETT otobüsleri veya T4 Topkapı-Mescid-i Selam tramvay hattı Edirnekapı durağında inilerek yürünebilir.",
+                            "reklam": {
+                                "aktif": true,
+                                "metin": "Tarihi Sur Çevresi Rehberli Yürüyüş Turuna Katılanlara %15 İndirim!"
+                            },
+                            "yemek": "Asitane Restoran (Osmanlı Saray Mutfak Lezzetleri)"
+                        },
+                        "misir-carsisi": {
+                            "name": "Mısır Çarşısı",
+                            "desc": "1660 yılında kurulan Mısır Çarşısı, İstanbul'un en eski kapalı çarşilerinden biridir. Kokusuyla büyüleyen baharatları ve yöresel ürünleriyle dünyaca ünlüdür.",
+                            "image": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Hafta sonları oldukça kalabalık olur. Alışveriş yapmadan önce esnafla tatlı dille pazarlık edebilirsiniz.",
+                            "nasil_gidilir": "Eminönü vapur iskelesinin ve Yeni Cami'nin hemen arkasındadır. Tramvayla Eminönü durağında inerek kolayca ulaşılır.",
+                            "reklam": {
+                                "aktif": true,
+                                "metin": "Baharat ve Kuruyemiş Alışverişlerinde %15 İndirim Kuponu!"
+                            },
+                            "yemek": "Meşhur Kurukahveci Mehmet Efendi Türk Kahvesi"
                         }
                     }
                 }
-            }
+            },
+            "desc": "İstanbul, Asya ve Avrupa'yı birleştiren, binlerce yıllık tarihiyle dünyanın kalbinin attığı eşsiz bir kültür başkentidir.",
+            "nasil_gidilir": "İstanbul Havalimanı ve Sabiha Gökçen Havalimanı ile dünyanın her yerinden; karayolu ve demiryolu ile kolayca ulaşım sağlanır."
         },
         "ankara": {
             "name": "Ankara",
-            "tagline": "Başkentin köklü tarihi, kültürel mirası ve gurme durakları.",
+            "tagline": "Başkentin köklü tarihi ve gurme durakları.",
             "image": "https://images.unsplash.com/photo-1605633647464-4299b90c74fb?auto=format&fit=crop&w=1200&q=80&fm=webp",
             "categories": {
                 "lezzetli-yerler": {
@@ -36,13 +158,13 @@
                     "places": {
                         "mehmet-abinin-restaurantti": {
                             "name": "Mehmet Abinin Restoranı",
-                            "desc": "Ankara'nın kalbinde, geleneksel lezzetleri ve samimi ortamıyla efsaneleşmiş bir restoran.",
+                            "desc": "Ankara'nın kalbinde, geleneksel lezzetleri ve samimi ortamıyla efsaneleşmiş, yılların tecrübesini sunan özel bir gurme durağıdır.",
                             "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80&fm=webp",
-                            "ziyaretci_notlari": "Akşam saatlerinde gitmeden önce rezervasyon yapmakta fayda var.",
-                            "nasil_gidilir": "Kızılay merkezden yürüyerek veya taksiyle kolayca ulaşabilirsiniz.",
+                            "ziyaretci_notlari": "Akşam saatlerinde gitmeden önce mutlaka rezervasyon yapmanız tavsiye edilir.",
+                            "nasil_gidilir": "Kızılay merkezden yürüyerek 10 dakikada veya taksiyle kolayca ulaşabilirsiniz.",
                             "reklam": {
                                 "aktif": true,
-                                "metin": "Mehmet Abinin Yeri'ne Özel %10 İndirim Kuponu!"
+                                "metin": "Mehmet Abinin Yeri'ne Özel Hesapta %10 İndirim!"
                             },
                             "yemek": "Meşhur Ankara Tava ve Özel Güveç"
                         }
@@ -50,7 +172,7 @@
                 }
             },
             "desc": "Ankara, Türkiye'nin kalbinde yer alan; hem Cumhuriyet tarihi anıtları hem de modern yüzüyle keşfedilmeyi bekleyen eşsiz bir metropoldür.",
-            "nasil_gidilir": "Esenboğa Havalimanı üzerinden direkt uçuşla veya Türkiye'nin dört bir yanından Yüksek Hızlı Tren (YHT) ve otobüs seferleriyle kolayca ulaşabilirsiniz."
+            "nasil_gidilir": "Esenboğa Havalimanı direkt uçuşlarıyla veya Yüksek Hızlı Tren (YHT) hatlarıyla konforlu şekilde ulaşım sağlanır."
         }
     }
 }
