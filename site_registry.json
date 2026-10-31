@@ -169,6 +169,132 @@
                             "yemek": "Meşhur Ankara Tava ve Özel Güveç"
                         }
                     }
+                },
+                "tarihi-yerler": {
+                    "name": "Tarihi Yerler",
+                    "desc": "Ankara'nın en iyi yöresel ve gizli lezzet durakları.",
+                    "places": {
+                        "anitkabir": {
+                            "name": "Anıtkabir",
+                            "desc": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün anıt mezarı olan Anıtkabir, 1953 yılında tamamlanmış modern Türk mimarisinin en görkemli yapılarından biridir.",
+                            "image": "https://images.unsplash.com/photo-1589802829985-817e51171b92?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Aslanlı Yol'da yürürken tören saatlerine denk gelirseniz askerlerin nöbet değişimini izleyebilirsiniz. Müze bölümü için en az 2 saat ayırmanız önerilir.",
+                            "nasil_gidilir": "ANKARAY hafif raylı sistemini kullanarak Tandoğan (Anadolu) durağında inip Anıt Caddesi üzerinden kısa bir yürüyüşle ulaşabilirsiniz.",
+                            "reklam": {
+                                "aktif": true,
+                                "metin": "Anıtkabir Müze Mağazasında Hediyelik Kitap Alışverişlerinde %10 İndirim!"
+                            },
+                            "yemek": "Çankaya ve Tandoğan Çevresinde Geleneksel Ankara Döneri"
+                        },
+                        "ankara-kalesi": {
+                            "name": "Ankara Kalesi",
+                            "desc": "M.Ö. 2. yüzyıla kadar uzanan köklü bir geçmişe sahip olan kale, Galatlar, Romalılar, Bizanslılar ve Osmanlılar tarafından kullanılmış kentin en eski simgelerinden biridir.",
+                            "image": "https://images.unsplash.com/photo-1627916607164-7b20241db935?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Surlara tırmanırken dikkatli olunmalıdır, korkuluk bulunmayan alanlar mevcuttur. Kale içi sokaklarındaki konaklar ve antika dükkanları gezilmeye değerdir.",
+                            "nasil_gidilir": "Ulus meydanından yürüyerek veya Samanpazarı yönüne giden dolmuş ve otobüslerle kale kapısına yakın konumda inebilirsiniz.",
+                            "reklam": {
+                                "aktif": true,
+                                "metin": "Kale İçi Antikacılarında Geçerli El Yapımı Seramiklerde %15 İndirim!"
+                            },
+                            "yemek": "Kale İçi Restoranlarında Ankara Tavası ve Gözleme"
+                        },
+                        "anadolu-medeniyetleri-muzesi": {
+                            "name": "Anadolu Medeniyetleri Müzesi",
+                            "desc": "Atpazarı semtinde Mahmut Paşa Bedesteni ve Kurşunlu Han'da yer alan müze, Paleolitik Çağ'dan günümüze Anadolu'nun zengin arkeolojik mirasını sergiler.",
+                            "image": "https://images.unsplash.com/photo-1566127444979-b3d2b654e3d7?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "1997 yılında Avrupa'da Yılın Müzesi seçilmiştir. Çatalhöyük ve Hitit uygarlığına ait eserleri görmek için rehberli veya sesli tur tercih edilmelidir.",
+                            "nasil_gidilir": "Ankara Kalesi'nin hemen dış surlarının güneyinde yer alır; Ulus Meydanı'ndan 10 dakikalık dik bir yürüyüşle ulaşılabilir.",
+                            "reklam": {
+                                "aktif": false,
+                                "metin": ""
+                            },
+                            "yemek": "Samanpazarı Tarihi Kurukahvecileri ve Çay Salonları"
+                        },
+                        "haci-bayram-camii": {
+                            "name": "Hacı Bayram Camii ve Türbesi",
+                            "desc": "1427-1428 yıllarında inşa edilen cami, Mutasavvıf Hacı Bayram-ı Veli'ye adanmıştır. Hemen yanında Roma dönemine ait Augustus Tapınağı ile yan yana yükselir.",
+                            "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Özellikle Cuma günleri ve kandillerde yoğun ziyaretçi akınına uğrar. Meydandaki ahşap işçilikli tarihi çarşıyı ziyaret edebilirsiniz.",
+                            "nasil_gidilir": "M1 Metro hattının Ulus durağında inip Hacı Bayram Meydanı tabelalarını takip ederek yürüyerek ulaşabilirsiniz.",
+                            "reklam": {
+                                "aktif": true,
+                                "metin": "Meydan Çarşısındaki Geleneksel İpek ve Hediyelik Ürünlerde %20 İndirim!"
+                            },
+                            "yemek": "Hacı Bayram Meydanı Meşhur Hacıbaba Kadayıfı ve Döneri"
+                        },
+                        "birinci-tbmm-muzesi": {
+                            "name": "Kurtuluş Savaşı Müzesi (I. TBMM)",
+                            "desc": "1920-1924 yılları arasında Türkiye Büyük Millet Meclisi olarak kullanılan Neo-Klasik Türk mimarisi üslubundaki bina, Milli Mücadele'nin idare merkezidir.",
+                            "image": "https://images.unsplash.com/photo-1572949645841-094f3a9c4c94?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Meclis Genel Kurul salonu ve Atatürk'ün çalışma odası orijinal haliyle korunmaktadır. Tarih meraklıları için büyüleyici bir atmosfere sahiptir.",
+                            "nasil_gidilir": "Ulus Meydanı'nın hemen merkezinde yer alır. Otobüs, minibüs ve metro ile Ulus durağında inilerek kolayca varılır.",
+                            "reklam": {
+                                "aktif": false,
+                                "metin": ""
+                            },
+                            "yemek": "Ulus Meydanı Tarihi Boza ve Salepçi Ziyareti"
+                        },
+                        "ikinci-tbmm-muzesi": {
+                            "name": "Cumhuriyet Müzesi (II. TBMM)",
+                            "desc": "1924-1960 yılları arasında TBMM faaliyetlerinin yürütüldüğü, Mimar Vedat Tek tasarımı yapı, Cumhuriyet devrimlerinin yasalaştığı tarihi binadır.",
+                            "image": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "I. TBMM Müzesi'ne sadece 100 metre mesafededir; iki müze aynı gün içinde ardışık olarak rahatlıkla gezilebilir.",
+                            "nasil_gidilir": "Ulus Meydanı'nda, Cumhuriyet Caddesi üzerinde bulunur. Metro ve tüm Ulus otobüsleriyle ulaşılabilir.",
+                            "reklam": {
+                                "aktif": true,
+                                "metin": "Cumhuriyet Tarihi Kitap Yayınlarında Kasada %10 İndirim Kuponu!"
+                            },
+                            "yemek": "Tarihi Ulus Şehir Çarşısı Lokantaları"
+                        },
+                        "etnografya-muzesi": {
+                            "name": "Ankara Etnografya Müzesi",
+                            "desc": "Türk ulusunun Selçuklu döneminden itibaren halk sanatlarını ve etnografik eserlerini sergileyen müze, Anıtkabir yapılana kadar Atatürk'ün geçici kabrine ev sahipliği yapmıştır.",
+                            "image": "https://images.unsplash.com/photo-1584267385494-9fdd9a71ad75?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Binanın önündeki bronz Atatürk heykeli İtalyan heykeltıraş Pietro Canonica eseridir. Müze içinde Atatürk'ün kaldığı sembolik alan görülebilir.",
+                            "nasil_gidilir": "Sıhhiye veya Ulus semtleri arasında, Namık Kemal Bulvarı üzerindeki Opera binasının hemen arkasındadır.",
+                            "reklam": {
+                                "aktif": false,
+                                "metin": ""
+                            },
+                            "yemek": "Sıhhiye Çevresi Asırlık Köfteci Restoranları"
+                        },
+                        "augustus-tapinati": {
+                            "name": "Augustus Tapınağı",
+                            "desc": "M.Ö. 25-20 yıllarında Roma İmparatoru Augustus adına inşa ettirilen ve duvarlarında Augustus'un vasiyetnamesinin (Res Gestae Divi Augusti) kazılı olduğu tarihi tapınak.",
+                            "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Tapınak kalıntıları Hacı Bayram Camii ile bitişiktir. Yapının koruma çalışmaları nedeniyle dış cepheden incelenmesi mümkündür.",
+                            "nasil_gidilir": "Ulus Meydanı'ndan Hacı Bayram Camii kompleksi yönüne yürüyerek 5 dakikada ulaşabilirsiniz.",
+                            "reklam": {
+                                "aktif": true,
+                                "metin": "Kültür Yolu Rehberli Yürüyüş Turlarında %15 İndirim!"
+                            },
+                            "yemek": "Ulus Meydanı Çevresi Geleneksel Çorbacılar"
+                        },
+                        "roma-hamami": {
+                            "name": "Ankara Roma Hamamı",
+                            "desc": "3. yüzyılda Roma İmparatoru Caracalla tarafından Sağlık Tanrısı Asklepios adına yaptırılan, palaestra (spor alanı) ve hamam bölümlerinden oluşan açık hava müzesi.",
+                            "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Geniş bir açık hava ören yeridir. Roma dönemi sütunları, ısıtma sistemleri (hipokost) ve mezar taşları arasında keyifli bir yürüyüş yapılabilir.",
+                            "nasil_gidilir": "Ulus Çankırı Caddesi üzerinde yer almaktadır. Ulus metro durağına yaklaşık 8-10 dakika yürüyüş mesafesindedir.",
+                            "reklam": {
+                                "aktif": false,
+                                "metin": ""
+                            },
+                            "yemek": "Dışkapı ve Çankırı Caddesi Üzerindeki Meşhur İskender ve Döner Salonları"
+                        },
+                        "gordion-antik-kenti": {
+                            "name": "Gordion Antik Kenti ve Tumulusleri",
+                            "desc": "Frigya Krallığı'nın başkenti olan ve UNESCO Dünya Mirası Listesi'nde yer alan Gordion, Kral Midas'ın Tümülüsü ve ünlü 'Gordion Düğümü' efsanesi ile tanınır.",
+                            "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=800&q=80&fm=webp",
+                            "ziyaretci_notlari": "Büyük Tümülüs içindeki ahşap mezar odasına inen tünel büyüleyicidir. Alan geniş olduğu için müze kartınızı yanınızda bulundurmanız tavsiye edilir.",
+                            "nasil_gidilir": "Ankara'nın Polatlı ilçesi Yassıhüyük köyünde yer alır. Ankara AŞTİ otogarından Polatlı dolmuşları veya özel araçla ulaşılabilir.",
+                            "reklam": {
+                                "aktif": true,
+                                "metin": "Gordion Ören Yeri Müze Mağazasında Frig Temalı Hediyeliklerde %20 İndirim!"
+                            },
+                            "yemek": "Polatlı İlçe Merkezinde Meşhur Polatlı Köftesi"
+                        }
+                    }
                 }
             },
             "desc": "Ankara, Türkiye'nin kalbinde yer alan; hem Cumhuriyet tarihi anıtları hem de modern yüzüyle keşfedilmeyi bekleyen eşsiz bir metropoldür.",
