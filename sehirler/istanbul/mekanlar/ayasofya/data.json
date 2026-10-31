@@ -1,0 +1,29 @@
+{
+    "_ADMIN_KILAVUZU": "Bu dosyayı okuma yazma bilen herkes kolayca düzenleyebilir. Metinleri tırnak içinde değiştirmeniz yeterlidir.",
+    "mekan_adi": "Ayasofya-i Kebir Cami-i Şerifi",
+    "kategori": "Tarihi Yerler",
+    "kapak_resmi": "../../../assets/images/ayasofya.webp",
+    "seo": {
+        "meta_baslik": "Ayasofya Tarihi, Ziyaret Saatleri ve Rehberi 2026",
+        "meta_aciklama": "Ayasofya-i Kebir Cami-i Şerifi tarihi, mimarisi ve ulaşım rehberi."
+    },
+    "detayli_aciklama": "Mimarlık tarihinin en büyük şaheserlerinden biri olan Ayasofya, devasa kubbesi ve eşsiz mozaikleriyle İstanbul'un kalbidir.",
+    "ziyaretci_notlari": "Sabah erken saatlerde gitmek sıra beklemeyi önler.",
+    "nasil_gidilir": "T1 tramvay hattı ile Sultanahmet durağında inebilirsiniz.",
+    "reklam_alani": {
+        "aktif_mi": true,
+        "reklam_metni": "Sultanahmet Özel Rehberli Tur İndirimi %20!"
+    },
+    "kalacak_yerler": [
+        {
+            "otel_adi": "Four Seasons Sultanahmet",
+            "aciklama": "Lüks otel."
+        }
+    ],
+    "yemek_yerleri": [
+        {
+            "mekan_adi": "Tarihi Sultanahmet Köftecisi",
+            "aciklama": "Meşhur köfte."
+        }
+    ]
+}
