@@ -1,0 +1,15 @@
+{
+    "_ADMIN_KILAVUZU": "Bu dosyayı okuma yazma bilen herkes kolayca düzenleyebilir.",
+    "mekan_adi": "Mehmet Abinin Restoranı",
+    "kategori": "Lezzetli Yerler",
+    "seo_baslik": "Ankara Mehmet Abinin Restoranı Rehberi 2026",
+    "seo_aciklama": "Ankara Kızılay'da meşhur kebap ve güveç lezzetleri.",
+    "detayli_aciklama": "Ankara'nın kalbinde, geleneksel lezzetleri ve samimi ortamıyla efsaneleşmiş bir restoran.",
+    "ziyaretci_notlari": "Akşam saatlerinde gitmeden önce rezervasyon yapmakta fayda var.",
+    "nasil_gidilir": "Kızılay merkezden yürüyerek veya taksiyle kolayca ulaşabilirsiniz.",
+    "reklam": {
+        "aktif": true,
+        "metin": "Mehmet Abinin Yeri'ne Özel %10 İndirim Kuponu!"
+    },
+    "yemek": "Meşhur Ankara Tava ve Özel Güveç"
+}
