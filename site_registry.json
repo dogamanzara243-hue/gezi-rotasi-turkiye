@@ -11,15 +11,20 @@
                     "places": {
                         "ayasofya": {
                             "name": "Ayasofya-i Kebir Cami-i Şerifi",
-                            "desc": "Mimarlık tarihinin ve dünya kültür mirasının en büyük şaheserlerinden biri olan Ayasofya; benzersiz mozayikleri, devasa kubbesi ve 1500 yılı aşan tarihiyle büyülemektedir.",
+                            "desc": "Mimarlık tarihinin ve dünya kültür mirasının en büyük şaheserlerinden biri olan Ayasofya; benzersiz mozayikleri ve devasa kubbesiyle büyülemektedir.",
                             "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80&fm=webp",
-                            "ziyaretci_notlari": "Sabah erken saatlerde veya hafta içi gitmek sıra beklemeyi önler. Kıyafet kurallarına dikkat edilmelidir.",
-                            "nasil_gidilir": "Bağcılar-Kabataş T1 tramvay hattını kullanarak Sultanahmet durağında inebilir, kısa bir yürüyüşle ulaşabilirsiniz.",
+                            "galeri": [
+                                "https://www.kulturportali.gov.tr/contents/images/111.jpg",
+                                "https://www.kulturportali.gov.tr/contents/images/248.jpg",
+                                "https://www.kulturportali.gov.tr/contents/images/%c4%b0STANBUL-AYASOFYA%20M%c3%9cZES%c4%b0-%c4%b0%c3%87-G%c3%9cLCAN%20ACAR%20(9).jpg"
+                            ],
+                            "ziyaretci_notlari": "Sabah erken saatlerde gitmek sıra beklemeyi önler.",
+                            "nasil_gidilir": "T1 tramvay hattı ile Sultanahmet durağında inebilirsiniz.",
                             "reklam": {
                                 "aktif": true,
-                                "metin": "Sultanahmet Tarihi Alanlar Özel Rehberli Tur İndirimi %20!"
+                                "metin": "Sultanahmet Özel Rehberli Tur İndirimi %20!"
                             },
-                            "yemek": "Tarihi Sultanahmet Köftecisi ve Osmanlı Şerbeti"
+                            "yemek": "Tarihi Sultanahmet Köftecisi"
                         },
                         "topkapi-sarayi": {
                             "name": "Topkapı Sarayı",
@@ -145,7 +150,7 @@
                 }
             },
             "desc": "İstanbul, Asya ve Avrupa'yı birleştiren, binlerce yıllık tarihiyle dünyanın kalbinin attığı eşsiz bir kültür başkentidir.",
-            "nasil_gidilir": "İstanbul Havalimanı ve Sabiha Gökçen Havalimanı ile dünyanın her yerinden; karayolu ve demiryolu ile kolayca ulaşım sağlanır."
+            "nasil_gidilir": "İstanbul Havalimanı ve Sabiha Gökçen Havalimanı ile dünyanın her yerinden kolayca ulaşım sağlanır."
         },
         "ankara": {
             "name": "Ankara",
