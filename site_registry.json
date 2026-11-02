@@ -1,0 +1,125 @@
+{
+    "cities": {
+        "samsun": {
+            "name": "Samsun",
+            "tagline": "Karadeniz'in İncisi ve Kurtuluş Mücadelemizin Başlangıç Noktası",
+            "desc": "Tarihi mirası, eşsiz doğal güzellikleri, uzun sahilleri ve zengin gastronomisiyle Karadeniz'in en gözde şehirlerinden biridir.",
+            "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+            "nasil_gidilir": "Samsun'a havayolu ile Çarşamba Havalimanı üzerinden, karayolu ile ise Türkiye'nin dört bir yanından düzenlenen otobüs seferleriyle kolayca ulaşabilirsiniz.",
+            "categories": {
+                "dogal-guzellikler": {
+                    "name": "Doğal Güzellikler",
+                    "desc": "Samsun'un kanyonları, gölleri, şelaleleri ve muhteşem ormanlarıyla doğayla baş başa kalabileceğiniz en güzel rotalar.",
+                    "places": {
+                        "sahinkaya-kanyonu": {
+                            "name": "Şahinkaya Kanyonu",
+                            "desc": "Kızılırmak'ın suları üzerinde yükselen sarp kayalıklarıyla büyüleyen Şahinkaya Kanyonu, doğa tutkunları ve kano sporcuları için eşsiz bir rotadır. Vezirköprü ilçesinde yer alan kanyon, devasa boyutuyla görenleri kendine hayran bırakır.",
+                            "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1426604966848-d7adac902bff?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Kanyonu keşfetmek için tekne turu yapabilir, sabah saatlerinde giderek sakinliğin tadını çıkarabilirsiniz. Yanınıza mutlaka güneş kremi ve rahat yürüyüş ayakkabıları alın.",
+                            "nasil_gidilir": "Samsun merkezden Vezirköprü ilçesine özel araçla veya ilçe minibüsleriyle gidilir; ardından kanyon bölgesine tabelalar takip edilerek ulaşılır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=%C5%9eahinkaya+Kanyonu+Vezirk%C3%B6pr%C3%BC+Samsun",
+                            "yemek": [
+                                {
+                                    "isim": "Vezirköprü Tirit Evi",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Vezirk%C3%B6pr%C3%BC+Tirit+Evi+Samsun"
+                                },
+                                {
+                                    "isim": "Kanyon Restoran",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=%C5%9eahinkaya+Kanyon+Restoran+Vezirk%C3%B6pr%C3%BC"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Vezirköprü Öğretmenevi",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Vezirk%C3%B6pr%C3%BC+%C3%96%C4%9Fretmenevi"
+                                },
+                                {
+                                    "isim": "Asil Otel Vezirköprü",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Asil+Otel+Vezirk%C3%B6pr%C3%BC+Samsun"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": true,
+                                    "metin": "Şahinkaya Kanyonu Tekne Turlarında %20 İndirim!",
+                                    "buton_metni": "Hemen Rezervasyon Yap",
+                                    "link": "#"
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Doğa sporları ve kamp ekipmanlarında büyük sezon indirimi!",
+                                    "buton_metni": "İncele",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Samsun Otellerinde Erken Rezervasyon Fırsatları",
+                                    "buton_metni": "Keşfet",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "kizilirmak-deltasi-kus-cenneti": {
+                            "name": "Kızılırmak Deltası Kuş Cenneti",
+                            "desc": "Türkiye'nin en önemli sulak alanlarından biri olan Kızılırmak Deltası, yüzlerce kuş türüne ev sahipliği yapar. UNESCO Dünya Mirası Geçici Listesi'nde yer alan bu benzersiz delta, doğa fotoğrafçılığı ve bisiklet turları için mükemmeldir.",
+                            "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1511497584788-8767611925b6?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Deltada kuş gözlemi yapabilmek için yanınızda mutlaka dürbün bulundurun. Ziyaretçi merkezinden bisiklet kiralayarak alanı gezebilirsiniz.",
+                            "nasil_gidilir": "Bafra ilçe sınırlarında yer alan deltaya Samsun-Bafra karayolu üzerinden özel araçla veya Bafra dolmuşlarıyla ulaşım sağlanır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=K%C4%B1z%C4%B1l%C4%B1rmak+Deltas%C4%B1+Ku%C5%9F+Cenneti",
+                            "yemek": [
+                                {
+                                    "isim": "Bafra Pidecisi Şti.",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Bafra+Pidesi+Samsun"
+                                },
+                                {
+                                    "isim": "Deltapark Restoran",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Bafra+Yemek+Yerleri"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Bafra Grand Kolaylı Hotel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Bafra+Grand+Kolayl%C4%B1+Hotel"
+                                },
+                                {
+                                    "isim": "Alibey Otel Bafra",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Alibey+Otel+Bafra"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": true,
+                                    "metin": "Kuş Gözlem Turları İçin Rehberli Hizmetler",
+                                    "buton_metni": "Bilgi Al",
+                                    "link": "#"
+                                },
+                                "icerik_arasi": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Bafra'da Konaklama Fırsatları",
+                                    "buton_metni": "Göz At",
+                                    "link": "#"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
