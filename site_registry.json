@@ -703,6 +703,869 @@
                     }
                 }
             }
+        },
+        "istanbul": {
+            "name": "İstanbul",
+            "tagline": "İki Kıtanın Buluştuğu Tarih ve Doğa Başkenti",
+            "desc": "Tarihi dokusu, kültürel zenginlikleri ve metropolün kalbinde yer alan saklı cennet niteliğindeki doğa alanlarıyla İstanbul, keşfedilmeyi bekleyen eşsiz bir şehirdir.",
+            "image": "https://images.unsplash.com/photo-1524231757913-21f993a7825f?auto=format&fit=crop&w=1200&q=80",
+            "nasil_gidilir": "İstanbul'a dünyanın ve Türkiye'nin her yerinden havayolu, karayolu ve demiryolu ile kolayca ulaşım sağlayabilir; şehir içinde ise metro, metrobüs, vapur ve otobüs ağını kullanabilirsiniz.",
+            "categories": {
+                "dogal-guzellikler": {
+                    "name": "Doğal Güzellikler",
+                    "desc": "İstanbul'un karmaşasından uzaklaşarak sığınabileceğiniz, ormanları, gölleri, koruları ve sahilleriyle öne çıkan en güzel doğa rotaları.",
+                    "places": {
+                        "belgrad-ormani": {
+                            "name": "Belgrad Ormanı",
+                            "desc": "İstanbul'un Avrupa yakasında yer alan Belgrad Ormanı, devasa meşe ve gürgen ağaçları, yürüyüş parkurları ve tarihi su kemerleriyle şehrin en popüler yeşil kaçamak noktasıdır.",
+                            "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1511497584788-8767611925b6?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Hafta sonları oldukça kalabalık olabilmektedir. Sakin bir yürüyüş için erken saatleri tercih edebilir, koşu parkurlarından yararlanabilirsiniz.",
+                            "nasil_gidilir": "Sarıyer Bahçeköy yönüne gelen İETT otobüsleriyle veya özel aracınızla kolayca ulaşabilirsiniz.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Belgrad+Orman%C4%B1+Sar%C4%B1yer+%C4%B0stanbul",
+                            "yemek": [
+                                {
+                                    "isim": "Bahçeköy Tarihi Simitçisi",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Bahh%C3%A7ek%C3%B6y+Yemek+%C4%B0stanbul"
+                                },
+                                {
+                                    "isim": "Kemerburgaz Restoranları",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Kemerburgaz+Restoranlar%C4%B1"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Kemer Country Hotel Istanbul",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Kemer+Country+Hotel+Istanbul"
+                                },
+                                {
+                                    "isim": "Le Méridien Istanbul Etiler",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Le+M%C3%A9ridien+Istanbul+Etiler"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": true,
+                                    "metin": "Doğa Yürüyüşü ve Kamp Ekipmanlarında Sezon İndirimi",
+                                    "buton_metni": "İncele",
+                                    "link": "#"
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "İstanbul Doğa Fotoğrafçılığı Atölyesi",
+                                    "buton_metni": "Kayıt Ol",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Şehir İçi Araç Kiralama Fırsatları",
+                                    "buton_metni": "Kirala",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "ataturk-arboretumu": {
+                            "name": "Atatürk Arboretumu",
+                            "desc": "Binlerce farklı bitki türüne, göletlere ve huzurlu yürüyüş yollarına ev sahipliği yapan Atatürk Arboretumu, doğa ve fotoğraf severlerin İstanbul'daki favori duraklarındandır.",
+                            "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "İçeriye profesyonel fotoğraf makinesi veya yiyecek/içecek sokulması kurallara tabidir. Gitmeden önce bilet koşullarını inceleyiniz.",
+                            "nasil_gidilir": "Sarıyer Bahçeköy'de yer alır; Hacıosman metro istasyonundan otobüs aktarmasıyla ulaşılabilir.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Atat%C3%BCrk+Arboretumu+Sar%C4%B1yer+%C4%B0stanbul",
+                            "yemek": [
+                                {
+                                    "isim": "Bahçeköy Esnaf Lokantası",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Bahh%C3%A7ek%C3%B6y+Esnaf+Lokantas%C4%B1"
+                                },
+                                {
+                                    "isim": "Sarıyer Börekçisi",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Tarihi+Sar%C4%B1yer+B%C3%B6rek%C3%A7isi"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Six Senses Kocataş Mansions",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Six+Senses+Kocata%C5%9F+Mansions"
+                                },
+                                {
+                                    "isim": "Wyndham Grand Istanbul Levent",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Wyndham+Grand+Istanbul+Levent"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Botanik Meraklılarına Özel Kitap Kampanyası",
+                                    "buton_metni": "Satın Al",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "İstanbul Otellerinde Erken Rezervasyon",
+                                    "buton_metni": "Göz At",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "polonezkoy-tabiat-parki": {
+                            "name": "Polonezköy Tabiat Parkı",
+                            "desc": "Tarihi Polonya köyü dokusunu koruyan, yemyeşil ormanları, kır kahvaltıları ve yürüyüş parkurlarıyla İstanbul'un Anadolu yakasındaki huzur dolu köşesidir.",
+                            "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Geleneksel köy kahvaltıları ve yöresel Polonya lezzetlerini tatmak için hafta sonu ideal bir tercihtir.",
+                            "nasil_gidilir": "Beykoz ilçesine bağlı Polonezköy'e özel araçla veya Ümraniye/Kavacık yönünden giden güzergahlarla ulaşılır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Polonezk%C3%B6y+Tabiat+Park%C4%B1+%C4%B0stanbul",
+                            "yemek": [
+                                {
+                                    "isim": "Polonezköy Country Club Restoran",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Polonezk%C3%B6y+Country+Club+Restoran"
+                                },
+                                {
+                                    "isim": "Stella Polonezköy",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Stella+Polonezk%C3%B6y"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Polonez Park Otel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Polonez+Park+Otel"
+                                },
+                                {
+                                    "isim": "The Plaza Polonezköy",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Polonezk%C3%B6y+Konaklama"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": true,
+                                    "metin": "Polonezköy'de Hafta Sonu Kahvaltı Fırsatları",
+                                    "buton_metni": "Rezervasyon Yap",
+                                    "link": "#"
+                                },
+                                "icerik_arasi": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "İstanbul Doğa Otelleri",
+                                    "buton_metni": "İncele",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "sile-sakligol": {
+                            "name": "Şile Saklıgöl",
+                            "desc": "Şile'nin Ağaçdere köyünde bulunan yapay bir baraj gölü olan Saklıgöl, etrafını saran sık orman yapısı ve ahşap yürüyüş yollarıyla doğayla baş başa kalmak isteyenleri cezbeder.",
+                            "image": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Göl kenarındaki tesiste kahvaltı yapabilir, göl etrafındaki patikada kısa yürüyüşler gerçekleştirebilirsiniz.",
+                            "nasil_gidilir": "Şile otoyolu üzerinden Şile merkeze ulaştıktan sonra Ağaçdere tabelaları takip edilerek özel araçla gidilir.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=%C5%9Eile+Sakl%C4%B1g%C3%B6l+%C4%B0stanbul",
+                            "yemek": [
+                                {
+                                    "isim": "Saklıgöl Tesisleri",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Sakl%C4%B1g%C3%B6l+Restoran+%C5%9Eile"
+                                },
+                                {
+                                    "isim": "Şile Balıkçısı",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=%C5%9Eile+Merkez+Yemek"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Şile Gardens Hotel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=%C5%9Eile+Gardens+Hotel"
+                                },
+                                {
+                                    "isim": "Rancho Park Otel Şile",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Rancho+Park+Otel+%C5%9Eile"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Şile Butik Otellerinde Hafta Sonu İndirimi",
+                                    "buton_metni": "Göz At",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Doğa Kampı Ürünleri",
+                                    "buton_metni": "Satın Al",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "aydos-ormani-ve-golu": {
+                            "name": "Aydos Ormanı ve Gölü",
+                            "desc": "Anadolu yakasının en yüksek noktası olan Aydos Dağı eteklerinde yer alan orman ve içerisindeki göl, şehrin kalabalığından kaçmak için ideal bir yürüyüş ve piknik alanıdır.",
+                            "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1432405972618-c60b0225b8f6?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Zirveye doğru çıktığınızda muazzam bir manzara sizi karşılar. Bisiklet sürmek için de uygun parkurları bulunur.",
+                            "nasil_gidilir": "Kartal, Sultanbeyli ve Pendik sınırları arasında yer alır; toplu taşıma veya özel araçla kolayca erişilebilir.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Aydos+Orman%C4%B1+ve+G%C3%B6l%C3%BC+%C4%B0stanbul",
+                            "yemek": [
+                                {
+                                    "isim": "Kartal Sahil Balıkçısı",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Kartal+Sahil+Restoranlar%C4%B1"
+                                },
+                                {
+                                    "isim": "Sultanbeyli Izgara Salonu",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Sultanbeyli+Yemek"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Titanic Port Business Hotel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Titanic+Port+Business+Hotel+Maltepe"
+                                },
+                                {
+                                    "isim": "Dedeman Bostancı Hotel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Dedeman+Bostanc%C4%B1+Hotel"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": true,
+                                    "metin": "Dağ Bisikleti ve Kamp Malzemelerinde %25 İndirim",
+                                    "buton_metni": "İncele",
+                                    "link": "#"
+                                },
+                                "icerik_arasi": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "yan_menu": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                }
+                            }
+                        },
+                        "riva-deresi": {
+                            "name": "Riva Deresi",
+                            "desc": "Karadeniz'e döküldüğü noktada harika bir delta ve kumsal oluşturan Riva Deresi, kano yapmak, doğa yürüyüşü gerçekleştirmek ve nehir kenarında dinlenmek için harika bir rotadır.",
+                            "image": "https://images.unsplash.com/photo-1511497584788-8767611925b6?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Riva Kalesi'ni ziyaret edebilir ve nehir kenarındaki balık restoranlarında taze deniz mahsullerinin tadını çıkarabilirsiniz.",
+                            "nasil_gidilir": "Beykoz ilçesine bağlı Riva köyüne Ümraniye veya Kavacık üzerinden otobüs veya özel araçla gidilir.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Riva+Deresi+Beykoz+%C4%B0stanbul",
+                            "yemek": [
+                                {
+                                    "isim": "Riva Elmas Restaurant",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Riva+Elmas+Restaurant"
+                                },
+                                {
+                                    "isim": "Mehmetçik Vakfı Riva Tesisleri",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Mehmet%C3%A7ik+Vakf%C4%B1+Riva+Tesisleri"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Riva The Green Park Hotel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=The+Green+Park+Pendik+Hotel"
+                                },
+                                {
+                                    "isim": "Beykoz Konaklama Yerleri",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Beykoz+Otel"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Riva'da Kano Kiralama ve Doğa Turları",
+                                    "buton_metni": "Hemen Katıl",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "İstanbul Yakınındaki Oteller",
+                                    "buton_metni": "Göz At",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "agva-ve-goksu-deresi": {
+                            "name": "Ağva ve Göksu Deresi",
+                            "desc": "Yeşilçay ve Göksu derelerinin arasında, Karadeniz kıyısında yer alan Ağva; nehir kenarındaki butik otelleri, sakin atmosferi ve doğasıyla adeta bir saklı cennettir.",
+                            "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1426604966848-d7adac902bff?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Göksu Deresi üzerinde sandal veya kano turu yapmak Ağva'nın en klasik ve keyifli aktivitesidir.",
+                            "nasil_gidilir": "Şile üzerinden Ağva tabelaları takip edilerek karayoluyla yaklaşık 1.5 - 2 saatte varılır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=A%C4%9Fva+ve+G%C3%B6ksu+Deresi+%C5%9Eile+%C4%B0stanbul",
+                            "yemek": [
+                                {
+                                    "isim": "Ağva Liman Restoran",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=A%C4%9Fva+Liman+Restoran"
+                                },
+                                {
+                                    "isim": "Wineport Lodge Ağva",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Wineport+Lodge+A%C4%9Fva"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Acarkent Ağva Nehir Evi",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=A%C4%9Fva+Butik+Otelleri"
+                                },
+                                {
+                                    "isim": "Tranquilla Nehir Evi Ağva",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Tranquilla+Nehir+Evi+A%C4%9Fva"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": true,
+                                    "metin": "Ağva Nehir Kenarı Otellerinde %20 İndirim",
+                                    "buton_metni": "Rezervasyon Yap",
+                                    "link": "#"
+                                },
+                                "icerik_arasi": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Ağva Romantik Tatil Paketleri",
+                                    "buton_metni": "Keşfet",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "kulindag-tabiat-parki": {
+                            "name": "Kulindağ Tabiat Parkı",
+                            "desc": "Beykoz'un derin vadilerinden birinde, orman içinde yer alan Kulindağ; ahşap dağ evleri, kamp alanları ve doğa yürüyüşü rotalarıyla huzurlu bir inziva noktasıdır.",
+                            "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1511497584788-8767611925b6?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Kafesinde organik kahvaltı yapabilir, doğanın sesini dinleyerek kitap okuyabilirsiniz.",
+                            "nasil_gidilir": "Beykoz Mahmutşevketpaşa köyü istikametine gidilerek özel araçla ulaşım sağlanır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Kulinda%C4%9F+Tabiat+Park%C4%B1+Beykoz+%C4%B0stanbul",
+                            "yemek": [
+                                {
+                                    "isim": "Kulindağ Dağ Evi Restoran",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Kulinda%C4%9F+Da%C4%9F+Evi+Restoran"
+                                },
+                                {
+                                    "isim": "Mahmutşevketpaşa Köy Kahvaltısı",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Mahmut%C5%9Fevketpa%C5%9Fa+K%C3%B6y+Kahvalt%C4%B1s%C4%B1"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Kulindağ Dağ Evleri",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Kulinda%C4%9F+Da%C4%9F+Evleri"
+                                },
+                                {
+                                    "isim": "Beykoz Doğa Evleri",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Beykoz+Konaklama"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Ahşap Dağ Evi Konaklamalarında Fırsatlar",
+                                    "buton_metni": "İncele",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Doğa Sporları Ekipmanları",
+                                    "buton_metni": "Satın Al",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "ballikayalar-tabiat-parki": {
+                            "name": "Ballıkayalar Tabiat Parkı",
+                            "desc": "Kocaeli sınırında yer almasına rağmen İstanbulluların doğa yürüyüşü ve kaya tırmanışı için akın ettiği Ballıkayalar, nefis kanyonu ve akarsuyuyla büyüleyicidir.",
+                            "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f6?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Kanyon içinde suyun içinden geçmeniz gerekebilir; bu nedenle yedek kıyafet ve su geçirmez ayakkabı şarttır.",
+                            "nasil_gidilir": "Gebze Dilovası yönünden özel araçla veya TEM otoyolu üzerinden kolayca ulaşılır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Ball%C4%B1kayalar+Tabiat+Park%C4%B1+Kocaeli",
+                            "yemek": [
+                                {
+                                    "isim": "Gebze Köftecisi",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Gebze+Restoranlar%C4%B1"
+                                },
+                                {
+                                    "isim": "Tavşancıl Sahil Lokantası",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Tav%C5%9Fanc%C4%B1l+Sahil+Lokantas%C4%B1"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Gebze Eskihisar Otel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Gebze+Otel"
+                                },
+                                {
+                                    "isim": "Anatolium Hotel Gebze",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Anatolium+Hotel+Gebze"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": true,
+                                    "metin": "Kaya Tırmanışı ve Trekking Setleri",
+                                    "buton_metni": "Satın Al",
+                                    "link": "#"
+                                },
+                                "icerik_arasi": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "İstanbul Çevresi Kamp Alanları",
+                                    "buton_metni": "Keşfet",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "kilyos-ve-komurcubent-sahilleri": {
+                            "name": "Kilyos ve Kömürcübent Sahilleri",
+                            "desc": "Karadeniz'in hırçın dalgaları ve geniş kumsallarıyla ünlü Kilyos sahilleri, yaz aylarında deniz keyfi, yılın diğer dönemlerinde ise dalga sesi eşliğinde yürüyüş yapmak için birebirdir.",
+                            "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Karadeniz'in akıntı ve dalgalarına dikkat edilmeli, cankurtaran bulunan güvenli plajlar tercih edilmelidir.",
+                            "nasil_gidilir": "Sarıyer'den Kilyos yönüne giden otobüslerle veya özel araçla kısa sürede ulaşılır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Kilyos+Sahili+Sar%C4%B1yer+%C4%B0stanbul",
+                            "yemek": [
+                                {
+                                    "isim": "Kilyos Balıkçısı",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Kilyos+Bal%C4%B1k+Restoran%C4%B1"
+                                },
+                                {
+                                    "isim": "Tarihi Sarıyer Börekçisi",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Sar%C4%B1yer+B%C3%B6rek"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Solaris Hotel Kilyos",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Solaris+Hotel+Kilyos"
+                                },
+                                {
+                                    "isim": "Tassos Hotel Kilyos",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Tassos+Hotel+Kilyos"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Kilyos Plaj Kulüplerinde Sezon İndirimi",
+                                    "buton_metni": "İncele",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Sarıyer Otelleri",
+                                    "buton_metni": "Göz At",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "buyukada-dilburnu-tabiat-parki": {
+                            "name": "Büyükada Dilburnu Tabiat Parkı",
+                            "desc": "Prens Adaları'nın en büyüğü olan Büyükada'nın en uç noktasında yer alan Dilburnu, çam ağaçları kokusu ve muhteşem Marmara Denizi manzarasıyla eşsiz bir dinlenme yeridir.",
+                            "image": "https://images.unsplash.com/photo-1524231757913-21f993a7825f?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1511497584788-8767611925b6?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Adada ulaşım bisiklet veya yürüyüşle sağlanmaktadır. Dilburnu'nda piknik yapabilir ya da gün batımını izleyebilirsiniz.",
+                            "nasil_gidilir": "Eminönü, Beşiktaş, Kadıköy veya Bostancı'dan kalkan vapurlarla Büyükada'ya geçip yürüyerek veya bisikletle ulaşılır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Dilburnu+Tabiat+Park%C4%B1+B%C3%BCy%C3%BCkada+%C4%B0stanbul",
+                            "yemek": [
+                                {
+                                    "isim": "Büyükada Eskibağ Teras Restoran",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=B%C3%BCy%C3%BCkada+Eskiba%C4%9F+Teras"
+                                },
+                                {
+                                    "isim": "Splendid Palace Otel Restoran",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Splendid+Palace+B%C3%BCy%C3%BCkada"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Splendid Palace Hotel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Splendid+Palace+Hotel+B%C3%BCy%C3%BCkada"
+                                },
+                                {
+                                    "isim": "Ada Palas Büyükada",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Ada+Palas+B%C3%BCy%C3%BCkada"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": true,
+                                    "metin": "Adalar Vapur Turlarında %15 İndirim",
+                                    "buton_metni": "Bilet Al",
+                                    "link": "#"
+                                },
+                                "icerik_arasi": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Büyükada Butik Otelleri",
+                                    "buton_metni": "İncele",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "validebag-korusu": {
+                            "name": "Validebağ Korusu",
+                            "desc": "Üsküdar ve Kadıköy sınırlarında yer alan Validebağ Korusu, İstanbul'un kalbinde kalmış nadir yeşil alanlardan biridir. Zengin flora ve fauna yapısıyla kuş gözlemcileri için değerlidir.",
+                            "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Sabah sporları ve sakin yürüyüşler yapmak için Anadolu yakasındaki en huzurlu noktalardan biridir.",
+                            "nasil_gidilir": "Altunizade veya Koşuyolu üzerinden yürüyerek ya da minibüslerle kolayca erişilebilir.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Valideba%C4%9F+Korusu+%C3%9Csk%C3%BCdar+%C4%B0stanbul",
+                            "yemek": [
+                                {
+                                    "isim": "Koşuyolu Cafe ve Restoranları",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Ko%C5%9Fuyolu+Kafeler"
+                                },
+                                {
+                                    "isim": "Altunizade Esnaf Lokantası",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Altunizade+Yemek"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "DoubleTree by Hilton Istanbul Altunizade",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=DoubleTree+by+Hilton+Istanbul+Altunizade"
+                                },
+                                {
+                                    "isim": "Borusan Kısıklı Konukevi",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=%C3%9Csk%C3%BCdar+Otel"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Anadolu Yakası Otel Fırsatları",
+                                    "buton_metni": "Göz At",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                }
+                            }
+                        },
+                        "emirgan-korusu": {
+                            "name": "Emirgan Korusu",
+                            "desc": "Boğaziçi'nin kıvrımlarında, sarı, kırmızı ve pembe köşkleriyle ünlü Emirgan Korusu, özellikle lale mevsiminde rengarenk manzaralar sunan tarihi ve doğal bir korudur.",
+                            "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.1/photo-1426604966848-d7adac902bff?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "İçerisindeki tarihi köşklerde Boğaz manzarasına karşı kahvaltı yapabilir, nisan ayındaki Lale Festivali'ni kaçırmayabilirsiniz.",
+                            "nasil_gidilir": "Sarıyer Emirgan sahil hattından geçen İETT otobüsleriyle kolayca ulaşım sağlanır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Emirgan+Korusu+Sar%C4%B1yer+%C4%B0stanbul",
+                            "yemek": [
+                                {
+                                    "isim": "Emirgan Beyaz Köşk",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Emirgan+Beyaz+K%C3%B6%C5%9Fk"
+                                },
+                                {
+                                    "isim": "Sütiş Emirgan",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Emirgan+S%C3%BCti%C5%9F"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "The Grand Tarabya Hotel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=The+Grand+Tarabya+Hotel"
+                                },
+                                {
+                                    "isim": "Ajia Hotel Beykoz",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Ajia+Hotel+Istanbul"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": true,
+                                    "metin": "Boğaz Manzaralı Kahvaltı Paketleri",
+                                    "buton_metni": "İncele",
+                                    "link": "#"
+                                },
+                                "icerik_arasi": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "İstanbul Boğaz Turu Biletleri",
+                                    "buton_metni": "Satın Al",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "yildiz-parki": {
+                            "name": "Yıldız Parkı",
+                            "desc": "Beşiktaş ve Ortaköy arasında yer alan Yıldız Parkı, Osmanlı döneminden kalma tarihi köşkleri, şelaleleri ve zengin bitki örtüsüyle şehrin merkezinde bir vaha gibidir.",
+                            "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Çadır Köşk ve Malta Köşk'te kahvaltı edebilir, parkın gölgeli yollarında sincapları gözlemleyebilirsiniz.",
+                            "nasil_gidilir": "Beşiktaş veya Ortaköy'den yürüyerek ya da sahil otobüsleriyle kolayca ulaşılır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Y%C4%B1ld%C4%B1z+Park%C4%B1+Be%C5%9Fikta%C5%9F+%C4%B0stanbul",
+                            "yemek": [
+                                {
+                                    "isim": "Malta Köşkü",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Malta+K%C3%B6%C5%9Fk%C3%BC+Y%C4%B1ld%C4%B1z+Park%C4%B1"
+                                },
+                                {
+                                    "isim": "Çadır Köşkü",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=%C3%87ad%C4%B1r+K%C3%B6%C5%9Fk%C3%BC+Y%C4%B1ld%C4%B1z+Park%C4%B1"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Swissôtel The Bosphorus Istanbul",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Swiss%C3%B4tel+The+Bosphorus+Istanbul"
+                                },
+                                {
+                                    "isim": "Four Seasons Hotel Istanbul at Bosphorus",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Four+Seasons+Hotel+Istanbul+at+Bosphorus"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Beşiktaş Lüks Otellerinde Hafta Sonu Fırsatı",
+                                    "buton_metni": "Göz At",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "İstanbul Müze Kart Kampanyası",
+                                    "buton_metni": "Satın Al",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "fatih-ormani": {
+                            "name": "Fatih Ormanı",
+                            "desc": "Maslak ve Bahçeköy arasında yer alan Fatih Ormanı, yürüyüş parkurları ve geniş meşe ağaçlarıyla doğa sporları tutkunlarının sıklıkla ziyaret ettiği noktalardan biridir.",
+                            "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1511497584788-8767611925b6?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Hafta içi günlerinde oldukça sakin olan ormanda koşu yapabilir ve temiz hava alabilirsiniz.",
+                            "nasil_gidilir": "Maslak veya Bahçeköy üzerinden özel araçla ya da hat otobüsleriyle erişim sağlanır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Fatih+Orman%C4%B1+Sar%C4%B1yer+%C4%B0stanbul",
+                            "yemek": [
+                                {
+                                    "isim": "Maslak Restoranları",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Maslak+Yemek+Yerleri"
+                                },
+                                {
+                                    "isim": "İstinye Park Food Court",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=%C4%B0stinye+Park+Restoran"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Wyndham Grand Istanbul Levent",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Wyndham+Grand+Istanbul+Levent"
+                                },
+                                {
+                                    "isim": "Sheraton Istanbul Maslak Hotel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Sheraton+Istanbul+Maslak+Hotel"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": true,
+                                    "metin": "Koşu ve Fitness Ekipmanlarında %30 İndirim",
+                                    "buton_metni": "İncele",
+                                    "link": "#"
+                                },
+                                "icerik_arasi": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Maslak İş Otelleri",
+                                    "buton_metni": "Göz At",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "elmasburnu-tabiat-parki": {
+                            "name": "Elmasburnu Tabiat Parkı",
+                            "desc": "Beykoz'un Anadolufeneri mahallesinde yer alan Elmasburnu, mavi bayraklı plajı, mesire alanı ve orman dokusuyla denizin ve yeşilin buluştuğu harika bir tabiat parkıdır.",
+                            "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Girişinde bulunan tesislerde dinlenebilir, yaz aylarında plajından güvenle yararlanabilirsiniz.",
+                            "nasil_gidilir": "Beykoz Anadolufeneri köyü yönüne özel araçla veya otobüs hatlarıyla gidilir.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Elmasburnu+Tabiat+Park%C4%B1+Beykoz+%C4%B0stanbul",
+                            "yemek": [
+                                {
+                                    "isim": "Anadolufeneri Balıkçısı",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Anadolufeneri+Bal%C4%B1k+Restoran%C4%B1"
+                                },
+                                {
+                                    "isim": "Poyrazköy Balık Lokantaları",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Poyrazk%C3%B6y+Restoranlar"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Beykoz Sahil Otelleri",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Beykoz+Otel"
+                                },
+                                {
+                                    "isim": "Anadolu Kavağı Konaklama",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Anadolu+Kava%C4%9F%C4%B1+Otel"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Plaj ve Yüzme Ekipmanlarında Büyük İndirim",
+                                    "buton_metni": "Satın Al",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "İstanbul Doğa Turları",
+                                    "buton_metni": "Keşfet",
+                                    "link": "#"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
         }
     }
 }
