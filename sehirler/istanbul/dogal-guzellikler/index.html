@@ -1,34 +1,181 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>İstanbul Doğal Güzellikler Vitrini</title>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doğal Güzellikler Vitrini</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="../../../assets/css/style.css">
 </head>
-<body class="antialiased">
+<body class="antialiased flex flex-col min-h-screen">
+    
     <header class="site-header">
-        <div class="max-w-5xl mx-auto px-4 h-16 flex items-center justify-between">
-            <a href="../index.html" class="font-bold text-sm bg-slate-100 px-3 py-2 rounded-xl">← İstanbul'a Dön</a>
-            <span class="text-xs font-bold text-emerald-700 bg-emerald-50 px-3 py-1 rounded-full border border-emerald-200">Kategori Vitrini</span>
+        <div class="max-w-6xl mx-auto px-4 h-20 flex items-center justify-between">
+            <a href="../../../index.html" class="flex items-center gap-3 group">
+                <div class="w-10 h-10 rounded-2xl bg-amber-600 text-white flex items-center justify-center font-bold text-xl shadow-md">
+                    <i class="fa-solid fa-compass"></i>
+                </div>
+                <div>
+                    <span class="text-lg font-extrabold text-slate-900 tracking-tight block">GeziRotası</span>
+                    <span class="text-[10px] text-amber-600 font-bold uppercase tracking-widest block">Türkiye Keşifleri</span>
+                </div>
+            </a>
+            <a href="../../../index.html" class="text-xs font-bold bg-slate-100 hover:bg-slate-200 px-4 py-2.5 rounded-xl transition text-slate-700">← Ana Sayfa</a>
         </div>
     </header>
-    <main class="max-w-5xl mx-auto px-4 py-8 space-y-8">
-        <div class="modern-card text-center space-y-2">
-            <h1 class="text-3xl font-extrabold text-slate-900">İstanbul Doğal Güzellikler</h1>
-            <p class="text-slate-600 text-sm">Şehrin yeşil alanları ve parkları.</p>
+    <main class="flex-grow max-w-5xl mx-auto px-4 py-8 space-y-8 w-full">
+        <div class="modern-card text-center space-y-2 p-6">
+            <h1 class="text-3xl font-extrabold text-slate-900">Doğal Güzellikler</h1>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div class="modern-card space-y-4">
+            <div class="modern-card space-y-4 p-6">
                 <div class="h-48 rounded-xl overflow-hidden">
-                    <img src="https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80&fm=webp" class="w-full h-full object-cover">
+                    <img src="https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
                 </div>
                 <h2 class="text-xl font-bold text-slate-800">Belgrad Ormanı</h2>
-                <p class="text-slate-600 text-xs line-clamp-2">Şehrin gürültüsünden kaçmak isteyenler için doğa harikası...</p>
-                <a href="belgrad-ormani/" class="inline-block bg-emerald-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-emerald-700 transition">Detayları İncele →</a>
+                <p class="text-slate-600 text-xs line-clamp-2">İstanbul'un Avrupa yakasında yer alan Belgrad Ormanı, devasa meşe ve gürgen ağaçları, yürüyüş parkurları ve tarihi su kemerleriyle şehrin en popüler yeşil kaçamak noktasıdır.</p>
+                <a href="belgrad-ormani/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div>
+            <div class="modern-card space-y-4 p-6">
+                <div class="h-48 rounded-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
+                </div>
+                <h2 class="text-xl font-bold text-slate-800">Atatürk Arboretumu</h2>
+                <p class="text-slate-600 text-xs line-clamp-2">Binlerce farklı bitki türüne, göletlere ve huzurlu yürüyüş yollarına ev sahipliği yapan Atatürk Arboretumu, doğa ve fotoğraf severlerin İstanbul'daki favori duraklarındandır.</p>
+                <a href="ataturk-arboretumu/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div>
+            <div class="modern-card space-y-4 p-6">
+                <div class="h-48 rounded-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
+                </div>
+                <h2 class="text-xl font-bold text-slate-800">Polonezköy Tabiat Parkı</h2>
+                <p class="text-slate-600 text-xs line-clamp-2">Tarihi Polonya köyü dokusunu koruyan, yemyeşil ormanları, kır kahvaltıları ve yürüyüş parkurlarıyla İstanbul'un Anadolu yakasındaki huzur dolu köşesidir.</p>
+                <a href="polonezkoy-tabiat-parki/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div>
+            <div class="modern-card space-y-4 p-6">
+                <div class="h-48 rounded-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
+                </div>
+                <h2 class="text-xl font-bold text-slate-800">Şile Saklıgöl</h2>
+                <p class="text-slate-600 text-xs line-clamp-2">Şile'nin Ağaçdere köyünde bulunan yapay bir baraj gölü olan Saklıgöl, etrafını saran sık orman yapısı ve ahşap yürüyüş yollarıyla doğayla baş başa kalmak isteyenleri cezbeder.</p>
+                <a href="sile-sakligol/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div>
+            <div class="modern-card space-y-4 p-6">
+                <div class="h-48 rounded-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
+                </div>
+                <h2 class="text-xl font-bold text-slate-800">Aydos Ormanı ve Gölü</h2>
+                <p class="text-slate-600 text-xs line-clamp-2">Anadolu yakasının en yüksek noktası olan Aydos Dağı eteklerinde yer alan orman ve içerisindeki göl, şehrin kalabalığından kaçmak için ideal bir yürüyüş ve piknik alanıdır.</p>
+                <a href="aydos-ormani-ve-golu/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div>
+            <div class="modern-card space-y-4 p-6">
+                <div class="h-48 rounded-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1511497584788-8767611925b6?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
+                </div>
+                <h2 class="text-xl font-bold text-slate-800">Riva Deresi</h2>
+                <p class="text-slate-600 text-xs line-clamp-2">Karadeniz'e döküldüğü noktada harika bir delta ve kumsal oluşturan Riva Deresi, kano yapmak, doğa yürüyüşü gerçekleştirmek ve nehir kenarında dinlenmek için harika bir rotadır.</p>
+                <a href="riva-deresi/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div>
+            <div class="modern-card space-y-4 p-6">
+                <div class="h-48 rounded-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
+                </div>
+                <h2 class="text-xl font-bold text-slate-800">Ağva ve Göksu Deresi</h2>
+                <p class="text-slate-600 text-xs line-clamp-2">Yeşilçay ve Göksu derelerinin arasında, Karadeniz kıyısında yer alan Ağva; nehir kenarındaki butik otelleri, sakin atmosferi ve doğasıyla adeta bir saklı cennettir.</p>
+                <a href="agva-ve-goksu-deresi/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div>
+            <div class="modern-card space-y-4 p-6">
+                <div class="h-48 rounded-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
+                </div>
+                <h2 class="text-xl font-bold text-slate-800">Kulindağ Tabiat Parkı</h2>
+                <p class="text-slate-600 text-xs line-clamp-2">Beykoz'un derin vadilerinden birinde, orman içinde yer alan Kulindağ; ahşap dağ evleri, kamp alanları ve doğa yürüyüşü rotalarıyla huzurlu bir inziva noktasıdır.</p>
+                <a href="kulindag-tabiat-parki/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div>
+            <div class="modern-card space-y-4 p-6">
+                <div class="h-48 rounded-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1432405972618-c60b0225b8f6?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
+                </div>
+                <h2 class="text-xl font-bold text-slate-800">Ballıkayalar Tabiat Parkı</h2>
+                <p class="text-slate-600 text-xs line-clamp-2">Kocaeli sınırında yer almasına rağmen İstanbulluların doğa yürüyüşü ve kaya tırmanışı için akın ettiği Ballıkayalar, nefis kanyonu ve akarsuyuyla büyüleyicidir.</p>
+                <a href="ballikayalar-tabiat-parki/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div>
+            <div class="modern-card space-y-4 p-6">
+                <div class="h-48 rounded-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
+                </div>
+                <h2 class="text-xl font-bold text-slate-800">Kilyos ve Kömürcübent Sahilleri</h2>
+                <p class="text-slate-600 text-xs line-clamp-2">Karadeniz'in hırçın dalgaları ve geniş kumsallarıyla ünlü Kilyos sahilleri, yaz aylarında deniz keyfi, yılın diğer dönemlerinde ise dalga sesi eşliğinde yürüyüş yapmak için birebirdir.</p>
+                <a href="kilyos-ve-komurcubent-sahilleri/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div>
+            <div class="modern-card space-y-4 p-6">
+                <div class="h-48 rounded-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1524231757913-21f993a7825f?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
+                </div>
+                <h2 class="text-xl font-bold text-slate-800">Büyükada Dilburnu Tabiat Parkı</h2>
+                <p class="text-slate-600 text-xs line-clamp-2">Prens Adaları'nın en büyüğü olan Büyükada'nın en uç noktasında yer alan Dilburnu, çam ağaçları kokusu ve muhteşem Marmara Denizi manzarasıyla eşsiz bir dinlenme yeridir.</p>
+                <a href="buyukada-dilburnu-tabiat-parki/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div>
+            <div class="modern-card space-y-4 p-6">
+                <div class="h-48 rounded-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
+                </div>
+                <h2 class="text-xl font-bold text-slate-800">Validebağ Korusu</h2>
+                <p class="text-slate-600 text-xs line-clamp-2">Üsküdar ve Kadıköy sınırlarında yer alan Validebağ Korusu, İstanbul'un kalbinde kalmış nadir yeşil alanlardan biridir. Zengin flora ve fauna yapısıyla kuş gözlemcileri için değerlidir.</p>
+                <a href="validebag-korusu/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div>
+            <div class="modern-card space-y-4 p-6">
+                <div class="h-48 rounded-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
+                </div>
+                <h2 class="text-xl font-bold text-slate-800">Emirgan Korusu</h2>
+                <p class="text-slate-600 text-xs line-clamp-2">Boğaziçi'nin kıvrımlarında, sarı, kırmızı ve pembe köşkleriyle ünlü Emirgan Korusu, özellikle lale mevsiminde rengarenk manzaralar sunan tarihi ve doğal bir korudur.</p>
+                <a href="emirgan-korusu/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div>
+            <div class="modern-card space-y-4 p-6">
+                <div class="h-48 rounded-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
+                </div>
+                <h2 class="text-xl font-bold text-slate-800">Yıldız Parkı</h2>
+                <p class="text-slate-600 text-xs line-clamp-2">Beşiktaş ve Ortaköy arasında yer alan Yıldız Parkı, Osmanlı döneminden kalma tarihi köşkleri, şelaleleri ve zengin bitki örtüsüyle şehrin merkezinde bir vaha gibidir.</p>
+                <a href="yildiz-parki/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div>
+            <div class="modern-card space-y-4 p-6">
+                <div class="h-48 rounded-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
+                </div>
+                <h2 class="text-xl font-bold text-slate-800">Fatih Ormanı</h2>
+                <p class="text-slate-600 text-xs line-clamp-2">Maslak ve Bahçeköy arasında yer alan Fatih Ormanı, yürüyüş parkurları ve geniş meşe ağaçlarıyla doğa sporları tutkunlarının sıklıkla ziyaret ettiği noktalardan biridir.</p>
+                <a href="fatih-ormani/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div>
+            <div class="modern-card space-y-4 p-6">
+                <div class="h-48 rounded-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover">
+                </div>
+                <h2 class="text-xl font-bold text-slate-800">Elmasburnu Tabiat Parkı</h2>
+                <p class="text-slate-600 text-xs line-clamp-2">Beykoz'un Anadolufeneri mahallesinde yer alan Elmasburnu, mavi bayraklı plajı, mesire alanı ve orman dokusuyla denizin ve yeşilin buluştuğu harika bir tabiat parkıdır.</p>
+                <a href="elmasburnu-tabiat-parki/" class="inline-block bg-amber-600 text-white text-xs font-bold px-4 py-2.5 rounded-xl hover:bg-amber-700 transition">Detayları İncele →</a>
+            </div></div>
+    </main>
+    
+    <footer class="bg-slate-900 text-slate-300 pt-16 pb-12 mt-20 border-t border-slate-800">
+        <div class="max-w-6xl mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-10 mb-12">
+            <div class="space-y-4">
+                <span class="text-white font-extrabold text-lg tracking-tight">GeziRotası Türkiye</span>
+                <p class="text-xs text-slate-400 leading-relaxed">Türkiye'nin en seçkin turizm rotalarını gezginlere sunan bağımsız keşif platformu.</p>
+            </div>
+            <div class="space-y-3">
+                <h4 class="text-white font-bold text-sm uppercase tracking-wider">Vizyonumuz</h4>
+                <p class="text-xs text-slate-400 leading-relaxed">Türkiye'nin turizm potansiyelini dijital altyapıyla tüm dünyaya tanıtmak.</p>
+            </div>
+            <div class="space-y-3">
+                <h4 class="text-white font-bold text-sm uppercase tracking-wider">Misyonumuz</h4>
+                <p class="text-xs text-slate-400 leading-relaxed">Seyahat severlere güncel ve güvenilir rehberlik sağlamak.</p>
             </div>
         </div>
-    </main>
+        <div class="max-w-6xl mx-auto px-4 border-t border-slate-800 pt-6 flex justify-between text-xs text-slate-500">
+            <p>Tüm Hakları Saklıdır © 2026 Gezi Rotası Türkiye.</p>
+            <p>Monorepo Akıllı Statik Mimari</p>
+        </div>
+    </footer>
 </body>
 </html>
