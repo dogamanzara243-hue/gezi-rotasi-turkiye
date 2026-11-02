@@ -116,6 +116,589 @@
                                     "link": "#"
                                 }
                             }
+                        },
+                        "galeric-su-basar-ormanlari": {
+                            "name": "Galeriç Su Basar Ormanları",
+                            "desc": "Kızılırmak Deltası içerisinde yer alan Galeriç Su Basar Ormanları, ilkbaharda sular altında kalan ağaçlarıyla adeta masalsı bir manzara sunar. Türkiye'de nadir görülen bu ekosistem, su basar orman dokusuyla ünlüdür.",
+                            "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Özellikle nisan ve mayıs aylarında su seviyesi ve bitki örtüsü en güzel halini alır. Su geçirmez bot giymeniz önerilir.",
+                            "nasil_gidilir": "Ondokuzmayıs ve Bafra ilçeleri arasında kalan bölgeye özel araçla ulaşım sağlanmaktadır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Galeri%C3%A7+Su+Basar+Ormanlar%C4%B1+Samsun",
+                            "yemek": [
+                                {
+                                    "isim": "19 Mayıs Sosyal Tesisleri",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Ondokuzmay%C4%B1s+Restoranlar"
+                                },
+                                {
+                                    "isim": "Sahil Balıkçısı",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Samsun+Bal%C4%B1k+Restoranlar%C4%B1"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Ondokuzmayıs Uygulama Oteli",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Ondokuzmay%C4%B1s+Uygulama+Oteli"
+                                },
+                                {
+                                    "isim": "Samsun Öğretmenevi",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Samsun+%C3%96%C4%9Fretmenevi"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Doğa Fotoğrafçılığı Atölyemize Katılın!",
+                                    "buton_metni": "Kayıt Ol",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Samsun Doğa Otelleri",
+                                    "buton_metni": "İncele",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "ladik-golu": {
+                            "name": "Ladik Gölü",
+                            "desc": "Yüzen adalara sahip olan Ladik Gölü, hem doğal güzelliği hem de su sporları imkanlarıyla öne çıkar. Çevresindeki yeşil alanlar piknik yapmak ve dinlenmek için birebirdir.",
+                            "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Göl kenarında taze turna balığı yiyebilir, gün batımının keyfini çıkarabilirsiniz.",
+                            "nasil_gidilir": "Ladik ilçe merkezine yaklaşık 7 km mesafededir. Ladik merkezden hareket eden araçlarla kolayca ulaşılır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Ladik+G%C3%B6l%C3%BC+Samsun",
+                            "yemek": [
+                                {
+                                    "isim": "Ladik Gölü Balık Restoran",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Ladik+G%C3%B6l%C3%BC+Restoran"
+                                },
+                                {
+                                    "isim": "Ladik Kebap Salonu",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Ladik+Merkez+Yemek"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Ladik Akdağ Kayak Merkezi Otel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Ladik+Akda%C4%9F+Otel"
+                                },
+                                {
+                                    "isim": "Ladik Termal Otel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Ladik+Termal+Otel+Samsun"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": true,
+                                    "metin": "Ladik Termal Otellerinde Sağlık Turizmi Fırsatları",
+                                    "buton_metni": "Keşfet",
+                                    "link": "#"
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Kamp Sandalyesi ve Çadır Setlerinde Dev İndirim",
+                                    "buton_metni": "Satın Al",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                }
+                            }
+                        },
+                        "kabaceviz-selaleleri": {
+                            "name": "Kabaceviz Şelaleleri",
+                            "desc": "Tekkeköy ilçesinde yer alan Kabaceviz Şelaleleri, doğa yürüyüşü ve macera severler için harika bir parkurdur. Ard arda gelen şelaleler ve vadinin büyüleyici yeşilliği adeta bir saklı cennettir.",
+                            "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f6?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Parkur kayalık ve ıslak olabileceği için kaymaz tabanlı yürüyüş ayakkabısı giymeye özen gösterin.",
+                            "nasil_gidilir": "Tekkeköy ilçesinden Kabaceviz köyü yönüne giden tabelalar takip edilerek özel araçla ulaşılır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Kabaceviz+%C5%9eelaleleri+Samsun",
+                            "yemek": [
+                                {
+                                    "isim": "Tekkeköy Köy Kahvaltısı ve Alabalık",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Tekkek%C3%B6y+Restoranlar"
+                                },
+                                {
+                                    "isim": "Samsun Merkez Pide Salonları",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Samsun+Pide"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Samsun Lujury Oteller",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Samsun+Otelleri"
+                                },
+                                {
+                                    "isim": "Tekkeköy Misafirhane",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Tekkek%C3%B6y+Konaklama"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Doğa Yürüyüşü Ekipmanlarında %30 İndirim",
+                                    "buton_metni": "İncele",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Samsun Araç Kiralama Seçenekleri",
+                                    "buton_metni": "Kirala",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "akalan-selaleleri": {
+                            "name": "Akalan Şelaleleri",
+                            "desc": "Çarşamba ilçesi sınırlarında yer alan Akalan Şelaleleri, el değmemiş doğası ve şırıl şırıl akan sularıyla huzur arayanların uğrak noktasıdır.",
+                            "image": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1511497584788-8767611925b6?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Bölgede tesis imkanları kısıtlı olduğundan yanınıza atıştırmalık ve su almanızı tavsiye ederiz.",
+                            "nasil_gidilir": "Çarşamba ilçesinden Akalan köyü istikametine devam edilerek ulaşılır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Akalan+%C5%9eelaleleri+%C3%87ar%C5%9Famba+Samsun",
+                            "yemek": [
+                                {
+                                    "isim": "Çarşamba Meşhur Pidecileri",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=%C3%87ar%C5%9Famba+Pide+%C3%87ar%C5%9Famba"
+                                },
+                                {
+                                    "isim": "Yeşilırmak Kenarı Restoranlar",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Ye%C5%9Fil%C4%B1rmak+Restoran+%C3%87ar%C5%9Famba"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Çarşamba Park Otel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=%C3%87ar%C5%9Famba+Otel"
+                                },
+                                {
+                                    "isim": "Royal House Otel Çarşamba",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Royal+House+Otel+%C3%87ar%C5%9Famba"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": true,
+                                    "metin": "Çarşamba Otellerinde Hafta Sonu Fırsatı",
+                                    "buton_metni": "Göz At",
+                                    "link": "#"
+                                },
+                                "icerik_arasi": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Doğa Kampı Malzemeleri",
+                                    "buton_metni": "Satın Al",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "golalan-selaleleri": {
+                            "name": "Gölalan Şelaleleri",
+                            "desc": "Canik ilçesinde bulunan Gölalan Şelaleleri, orman içerisindeki yürüyüş yolları ve serin sularıyla yaz aylarında serinlemek ve doğayla iç içe olmak isteyenler için harika bir seçenektir.",
+                            "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Fotoğrafçılık için harika kareler sunar. Piknik alanlarında çevre temizliğine dikkat ediniz.",
+                            "nasil_gidilir": "Canik ilçesinden Gölalan köyü yönüne giden yoldan özel araçla kolayca ulaşılabilir.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=G%C3%B6lalan+%C5%9eelaleleri+Canik+Samsun",
+                            "yemek": [
+                                {
+                                    "isim": "Canik Kahvaltı Evi",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Canik+Kahvalt%C4%B1+Samsun"
+                                },
+                                {
+                                    "isim": "Samsun Merkez Restoranları",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Samsun+Merkez+Yemek"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Anemon Samsun Otel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Anemon+Samsun+Otel"
+                                },
+                                {
+                                    "isim": "Sheraton Grand Samsun Hotel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Sheraton+Grand+Samsun+Hotel"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Samsun'un En İyi Otellerinde %15 İndirim",
+                                    "buton_metni": "Rezervasyon Yap",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                }
+                            }
+                        },
+                        "cicekli-selalesi": {
+                            "name": "Çiçekli Şelalesi",
+                            "desc": "Salıpazarı ilçesinde konumlanan Çiçekli Şelalesi, el değmemiş bitki örtüsü ve coşkulu akan suları ile Karadeniz'in vahşi ve güzel doğasını gözler önüne serer.",
+                            "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1426604966848-d7adac902bff?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Bölgeye ulaşım patika yollardan geçmektedir, bu nedenle rahat spor ayakkabılar tercih edilmelidir.",
+                            "nasil_gidilir": "Salıpazarı ilçesinden Çiçekli köyüne giden güzergah takip edilerek ulaşılır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=%C3%87i%C3%A7ekli+%C5%9eelalesi+Sal%C4%B1pazar%C4%B1+Samsun",
+                            "yemek": [
+                                {
+                                    "isim": "Salıpazarı Alabalık Tesisleri",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Sal%C4%B1pazar%C4%B1+Restoran"
+                                },
+                                {
+                                    "isim": "Terme Pide Salonu",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Terme+Pide+Samsun"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Salıpazarı Öğretmenevi",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Sal%C4%B1pazar%C4%B1+Konaklama"
+                                },
+                                {
+                                    "isim": "Terme Ramada Resort",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Terme+Otel"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": true,
+                                    "metin": "Doğa Turlarında Erken Rezervasyon Fırsatı",
+                                    "buton_metni": "İncele",
+                                    "link": "#"
+                                },
+                                "icerik_arasi": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Kamp Ekipmanları",
+                                    "buton_metni": "Satın Al",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "kunduz-ormanlari": {
+                            "name": "Kunduz Ormanları",
+                            "desc": "Vezirköprü ilçesinde yer alan Kunduz Ormanları, yaşlı sarıçam ağaçları ve zengin yaban hayatıyla ünlüdür. Aynı zamanda geleneksel Kunduz Yağlı Güreşleri'ne ev sahipliği yapmaktadır.",
+                            "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1511497584788-8767611925b6?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Oksijen oranı son derece yüksek olan bu ormanda kamp kurabilir ve doğa yürüyüşleri yapabilirsiniz.",
+                            "nasil_gidilir": "Vezirköprü ilçesinden orman yolu güzergahı takip edilerek özel araçla ulaşılır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Kunduz+Ormanlar%C4%B1+Vezirk%C3%B6pr%C3%BC+Samsun",
+                            "yemek": [
+                                {
+                                    "isim": "Vezirköprü Et Mangal",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Vezirk%C3%B6pr%C3%BC+Restoranlar"
+                                },
+                                {
+                                    "isim": "Kunduz Orman Kulesi Tesisleri",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Kunduz+Ormanlar%C4%B1+Tesis"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Kunduz Orman Köşkü",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Kunduz+Orman+K%C3%B6%C5%9Fk%C3%BC"
+                                },
+                                {
+                                    "isim": "Vezirköprü Otelleri",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Vezirk%C3%B6pr%C3%BC+Otel"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Çadır ve Tulum Kamp Setlerinde Büyük İndirim",
+                                    "buton_metni": "İncele",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Samsun Otel Rezervasyonu",
+                                    "buton_metni": "Fırsatları Gör",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "nebiyan-dagi": {
+                            "name": "Nebiyan Dağı",
+                            "desc": "1224 metre rakımıyla 19 Mayıs ilçesinde bulunan Nebiyan Dağı; yayla turizmi, trekking ve nefis Karadeniz manzarasıyla öne çıkar. Dağın eteklerindeki doğal su kaynakları da oldukça ünlüdür.",
+                            "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Zirveye doğru hava serinleyebilir, yanınıza mutlaka ince bir mont veya hırka almanızı öneririz.",
+                            "nasil_gidilir": "19 Mayıs ilçe merkezinden Nebiyan yaylası tabelaları takip edilerek özel araçla çıkılır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Nebiyan+Da%C4%9F%C4%B1+Samsun",
+                            "yemek": [
+                                {
+                                    "isim": "Nebiyan Yayla Restoran",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Nebiyan+Yaylas%C4%B1+Yemek"
+                                },
+                                {
+                                    "isim": "19 Mayıs Pide Salonu",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Ondokuzmay%C4%B1s+Pide"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Nebiyan Dağ Evi Tesisleri",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Nebiyan+Da%C4%9F+Evi"
+                                },
+                                {
+                                    "isim": "Samsun Sahil Otelleri",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Samsun+Otel"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": true,
+                                    "metin": "Nebiyan Dağı Yayla Şenlikleri Turu",
+                                    "buton_metni": "Yerini Ayırt",
+                                    "link": "#"
+                                },
+                                "icerik_arasi": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Dağcılık ve Trekking Ekipmanları",
+                                    "buton_metni": "Satın Al",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "tekkekoy-magaralari-arkeoloji-vadisi": {
+                            "name": "Tekkeköy Mağaraları Arkeoloji Vadisi",
+                            "desc": "Paleolitik çağdan kalma izler barındıran Tekkeköy Mağaraları, hem arkeolojik önemi hem de içerisinden akan dere ve yeşilliklerle doğal bir park niteliğindedir.",
+                            "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Mağaraların bulunduğu vadi içerisinde yürüyüş parkuru ve tarihi kalıntıları sergileyen açık hava müzesi bulunmaktadır.",
+                            "nasil_gidilir": "Samsun-Ordu karayolu üzerinde Tekkeköy ilçesinde yer alır; toplu taşıma araçları veya özel araçla kolayca ulaşılır.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=Tekkek%C3%B6y+Ma%C4%9Faralar%C4%B1+Arkeoloji+Vadisi",
+                            "yemek": [
+                                {
+                                    "isim": "Tekkeköy Meşhur Köftecisi",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Tekkek%C3%B6y+K%C3%B6ftecisi"
+                                },
+                                {
+                                    "isim": "Samsun Pide Salonları",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Samsun+Pideciler"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Hampton by Hilton Samsun",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Hampton+by+Hilton+Samsun"
+                                },
+                                {
+                                    "isim": "North Point Hotel Samsun",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=North+Point+Hotel+Samsun"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Tarih ve Doğa Turlarında Erken Rezervasyon",
+                                    "buton_metni": "İncele",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Samsun Konaklama Fırsatları",
+                                    "buton_metni": "Göz At",
+                                    "link": "#"
+                                }
+                            }
+                        },
+                        "omu-goleti": {
+                            "name": "OMÜ Göleti",
+                            "desc": "Ondokuz Mayıs Üniversitesi kampüsü içerisinde yer alan OMÜ Göleti, etrafındaki çam ağaçları ve yürüyüş yollarıyla öğrencilerin ve doğaseverlerin huzur bulduğu popüler bir noktadır.",
+                            "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Kampüs içinde yer aldığı için hafta içi ve hafta sonu sakin yürüyüşler yapmak için idealdir.",
+                            "nasil_gidilir": "Atakum ilçesinde bulunan OMÜ Kurupelit Kampüsü'ne tramvay veya otobüslerle kolayca ulaşabilirsiniz.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=OM%C3%9C+G%C3%B6leti+Samsun",
+                            "yemek": [
+                                {
+                                    "isim": "OMU Kampüs Kafeteryaları",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=OM%C3%9C+Kurupelit+Kafeler"
+                                },
+                                {
+                                    "isim": "Atakum Sahil Restoranları",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Atakum+Sahil+Yemek"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "OMÜ Konukevi",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=OM%C3%9C+Konukevi+Samsun"
+                                },
+                                {
+                                    "isim": "Atakum Otelleri",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Atakum+Otel"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": true,
+                                    "metin": "Atakum Sahil Otellerinde Özel İndirimler",
+                                    "buton_metni": "İncele",
+                                    "link": "#"
+                                },
+                                "icerik_arasi": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "yan_menu": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                }
+                            }
+                        },
+                        "guvercinlik-goleti": {
+                            "name": "Güvercinlik Göleti",
+                            "desc": "Samsun'un saklı doğa köşelerinden biri olan Güvercinlik Göleti, etrafını saran yeşil dokusu ve sessizliğiyle kampçıların ve hafta sonu kaçamağı yapmak isteyenlerin gözdesidir.",
+                            "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+                            "galeri": [
+                                "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=800&q=80",
+                                "https://images.unsplash.com/photo-1432405972618-c60b0225b8f6?auto=format&fit=crop&w=800&q=80"
+                            ],
+                            "ziyaretci_notlari": "Doğayla baş başa kalmak, kitap okumak ve stresten uzaklaşmak için harika bir ambiyansa sahiptir.",
+                            "nasil_gidilir": "Şehir merkezine yakın konumuyla özel araçlar üzerinden kolayca erişilebilir.",
+                            "buton_metni": "Google Haritalar'da Rotayı Aç",
+                            "buton_linki": "https://www.google.com/maps/search/?api=1&query=G%C3%BCvercinlik+G%C3%B6leti+Samsun",
+                            "yemek": [
+                                {
+                                    "isim": "Güvercinlik Kır Kahvesi",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=G%C3%BCvercinlik+Samsun+Yemek"
+                                },
+                                {
+                                    "isim": "Samsun Izgara Salonları",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Samsun+Izgara"
+                                }
+                            ],
+                            "konaklama": [
+                                {
+                                    "isim": "Samsun Grand Hotel",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Samsun+Grand+Hotel"
+                                },
+                                {
+                                    "isim": "Serra Hotel Samsun",
+                                    "link": "https://www.google.com/maps/search/?api=1&query=Serra+Hotel+Samsun"
+                                }
+                            ],
+                            "reklamlar": {
+                                "ust_banner": {
+                                    "aktif": false,
+                                    "metin": "",
+                                    "buton_metni": "",
+                                    "link": ""
+                                },
+                                "icerik_arasi": {
+                                    "aktif": true,
+                                    "metin": "Kamp Çadırı ve Doğa Sporları Ürünleri",
+                                    "buton_metni": "Satın Al",
+                                    "link": "#"
+                                },
+                                "yan_menu": {
+                                    "aktif": true,
+                                    "metin": "Samsun Bölgesel Turlar",
+                                    "buton_metni": "Keşfet",
+                                    "link": "#"
+                                }
+                            }
                         }
                     }
                 }
